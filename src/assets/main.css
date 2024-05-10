@@ -1,0 +1,37 @@
+body {
+    padding: 0 24px;
+    margin: 0;
+    font-family: Arial;
+    box-sizing: border-box;
+    background-color: #f7f9fc;
+
+    input, button, select, textarea {
+        border: 0;
+        cursor: pointer;
+        border-radius: 8px;
+        transition: 0.3s;
+        background: #F7F9FC;
+        outline: none;
+        box-sizing: border-box;
+    }
+}
+
+header, main {
+    background-color: #FFFFFF;
+    border-radius: 16px;
+}
+
+header {
+    margin: 12px 0;
+    h1 {
+        margin: 0;
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
+
+.wrapper {
+    padding: 16px 24px;
+}
+
+
